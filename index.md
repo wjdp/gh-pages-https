@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## This site is to test new HTTPS support on GitHub pages for custom domains
+
+See <https://blog.github.com/2018-05-01-github-pages-custom-domains-https/>
 
 You can use the [editor on GitHub](https://github.com/wjdp/gh-pages-https/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
